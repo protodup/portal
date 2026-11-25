@@ -1,6 +1,6 @@
 # 👋 Welcome to ProtoDup
 
-Just a place for me to post projects inspired by—or replicating—old TUI-based applications that I find interesting.
+Exploring and recreating classic TUI-based applications that caught my interest.
 
 🌐 **Official website:** [protodup.xyz](https://protodup.xyz)
 
