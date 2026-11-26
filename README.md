@@ -1,6 +1,6 @@
 # 👋 Welcome to ProtoDup
 
-Exploring and recreating classic TUI-based applications that caught my interest.
+Exploring and recreating "protoduplicating" classic TUI-based applications that caught my interest.
 
 🌐 **Official website:** [protodup.xyz](https://protodup.xyz)
 
